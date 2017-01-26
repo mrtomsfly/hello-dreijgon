@@ -1,2 +1,4 @@
 # hello-dreijgon
-Liten tutorial om dreijgons
+En stor tutorial om dreijgons
+
+Försöker lära mig om git och samtidigt hitta dreijgons
